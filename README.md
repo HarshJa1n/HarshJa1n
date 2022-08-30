@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">...</h3>
+![Header](./github-header-image.png)
 
 <p align="center"> <a href="https://twitter.com/nothaaarsh" target="blank"><img src="https://img.shields.io/twitter/follow/nothaaarsh?logo=twitter&style=for-the-badge" alt="nothaaarsh" /></a> </p>
 
