@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 <p align="center"> <a href="https://twitter.com/nothaaarsh" target="blank"><img src="https://img.shields.io/twitter/follow/nothaaarsh?logo=twitter&style=for-the-badge" alt="nothaaarsh" /></a> </p>
 
